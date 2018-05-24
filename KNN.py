@@ -9,3 +9,6 @@ class Knn:
 
     def leave_one_out(self):
         pass
+
+
+    pass
