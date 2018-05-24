@@ -8,3 +8,4 @@ class Knn:
         self.k_value = k_value
 
     def leave_one_out(self):
+        pass
